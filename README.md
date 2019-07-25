@@ -1,7 +1,4 @@
-# malafidewebsites
-Blocklist for Pi-hole with fraud websites
-
-    .rjv-belckmeer.nl
+    rjv-belckmeer.nl
     24uurdiemen.nl
     2wielerpoint.com
     4en5mei-kruiningen.nl

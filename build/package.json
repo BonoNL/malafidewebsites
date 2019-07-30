@@ -1,0 +1,11 @@
+{
+  "name": "malafidewebsites",
+  "description": "Blocklist for Pi-hole with fraudulent websites from the sources politie.nl/Tros opgelicht and test-aankoop.be",
+  "dependencies": {},
+  "devDependencies": {
+    "shelljs": "^0.8.3"
+  },
+  "scripts": {
+    "build": "node prettify.js"
+  }
+}

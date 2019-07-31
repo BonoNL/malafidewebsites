@@ -1,12 +1,12 @@
     *.1000operaties.nl
-    100percentamberx.be
-    100procenttechniektalent.nl
-    10urenvangrobbendonk.be
-    112veilig.nl
-    125jaarrijkstoezichtarbeid.nl
-    15dagenactie.nl
-    2017airmax.nl
-    24uurdiemen.nl
+    *.100percentamberx.be
+    *.100procenttechniektalent.nl
+    *.10urenvangrobbendonk.be
+    *.112veilig.nl
+    *.125jaarrijkstoezichtarbeid.nl
+    *.15dagenactie.nl
+    *.2017airmax.nl
+    *.24uurdiemen.nl
     24vandaag.nl
     2crete.nl
     2host4you.be

@@ -1,4 +1,4 @@
-    1000operaties.nl
+    *.1000operaties.nl
     100percentamberx.be
     100procenttechniektalent.nl
     10urenvangrobbendonk.be

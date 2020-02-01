@@ -2347,7 +2347,6 @@
     ubercute.nl
     uggssalegoedkoop.nl
     uggsuitverkoopbestellen.nl
-    uitdeweg.nl
     uitgeverijdodo.nl
     uitgeverijduoduo.nl
     uitgeverij-jess.nl
